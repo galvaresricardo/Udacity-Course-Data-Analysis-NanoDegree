@@ -26,7 +26,15 @@ r^2 0,258559773
 
 
 
+
+
 5. Now, perform the statistical test and report your results. What is your confidence level and your critical statistic value? Do you reject the null hypothesis or fail to reject it? Come to a conclusion in terms of the experiment task. Did the results match up with your expectations?
+
+For a confidence level of alfa = 0.0005 and degrees of freedom = 23:
+Considering a one-tailed test, according to what it was stated in the first: answer:
+t critic = 3.768
+t = 8.021
+Once the t value is lower then it t critic, we should refuse the null hypothesis with a confidence level of alfa = 0.0005. Indeed the presence of incongruent words hurts  the performance of the individuals that read the ink used in which word, as it is expected on before hand(since the first time I have tried to do, I had this impression). This performance of individuals is a construct variable that is measured using the time necessary to finish saying each of the inks used in a list of words.
 
 
 6. Optional: What do you think is responsible for the effects observed? Can you think of an alternative or similar task that would result in a similar effect? Some research about the problem will be helpful for thinking about these two questions!
