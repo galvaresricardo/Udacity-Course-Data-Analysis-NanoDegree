@@ -1,9 +1,11 @@
 Questions For Investigation
 
 1. What is our independent variable? What is our dependent variable?
+
 Our independent variable is the condition of the word(e.i. congruent words or incongruent words) and the dependent variable is the time it takes by the individuals to name the ink colors in equaly-sized lists. 
 
 2. What is an appropriate set of hypotheses for this task? What kind of statistical test do you expect to perform? Justify your choices
+
 An appropriate set of hypotheses are:
 H0(hypothesis null): The condition of the word does not affect the time it takes for the individuals to name the ink colors(The time of the first and second column are the same). 
 H0: Time for reading incongruent words - Time for reading congruent Words = 0
@@ -13,8 +15,18 @@ The statistical test we should perform is Pre-test, Post-test, dependent-samples
 
 3. Report some descriptive statistics regarding this dataset. Include at least one measure of central tendency and at least one measure of variability.
 
+Mean    7,964791667
+Median  7,6665
+Standard Deviation  4,86482691
+Variance    23,66654087
+Cohen's 1,637219949
+r^2 0,258559773
+
 4. Provide one or two visualizations that show the distribution of the sample data. Write one or two sentences noting what you observe about the plot or plots.
 
+
+
 5. Now, perform the statistical test and report your results. What is your confidence level and your critical statistic value? Do you reject the null hypothesis or fail to reject it? Come to a conclusion in terms of the experiment task. Did the results match up with your expectations?
+
 
 6. Optional: What do you think is responsible for the effects observed? Can you think of an alternative or similar task that would result in a similar effect? Some research about the problem will be helpful for thinking about these two questions!
